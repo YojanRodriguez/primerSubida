@@ -7,23 +7,15 @@ package nuevoahorcado;
 
 /**
  *
- * @author Yojan Rodriguez
- * @date 20/07/2016
+ * @author Familia
  */
-import java.util.Scanner;  //Se crean los importes para escanear
-import java.util.Random;    //Se crean los importes para realizar la escogencia al azar
 public class NuevoAhorcado {
-                            //Inicio de todo
-        public NuevoAhorcado(){
-            
-            Scanner detectar = new Scanner (System.in);
-            
-        }
-    
-    
-    
+
+    /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
-   
+        // TODO code application logic here
     }
     
 }
